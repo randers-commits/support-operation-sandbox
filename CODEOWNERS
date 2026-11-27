@@ -1,0 +1,5 @@
+# Who approves what. GitHub enforces this on every proposal: a change
+# cannot merge until the owner of each touched file approves it.
+# Haven keeps per-principle lines current by proposal as owners are named.
+
+* @randers-commits

@@ -1,0 +1,8 @@
+# The operation, as configuration. Nothing secret belongs in this file.
+operation:
+  name: Acme Support (sandbox)
+helpdesk:
+  kind: zendesk
+  window_days: 180
+review:
+  cadence: quarterly
